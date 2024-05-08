@@ -1,6 +1,3 @@
-
-Absolutely! Here's a template for a README file tailored for your digit recognizer model project:
-
 Digit Recognizer
 Overview
 The Digit Recognizer project aims to build and deploy a model capable of recognizing handwritten digits using machine learning and deep learning techniques. This project utilizes Python programming language along with popular libraries such as scikit-learn, TensorFlow, and Keras.
